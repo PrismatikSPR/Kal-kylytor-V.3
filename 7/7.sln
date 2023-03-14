@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7", "7\7.csproj", "{9BA5BF8E-41AE-4F1A-8107-14E40F435FD2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kal`kylytor V.3", "Kal`kylytor V.3\Kal`kylytor V.3.vdproj", "{03A72B5C-B373-436E-BC9E-37754446CBF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA5BF8E-41AE-4F1A-8107-14E40F435FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA5BF8E-41AE-4F1A-8107-14E40F435FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA5BF8E-41AE-4F1A-8107-14E40F435FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA5BF8E-41AE-4F1A-8107-14E40F435FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A72B5C-B373-436E-BC9E-37754446CBF5}.Debug|Any CPU.ActiveCfg = Debug
+		{03A72B5C-B373-436E-BC9E-37754446CBF5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD39BFF-988D-4BD0-A467-43751F7E9613}
+	EndGlobalSection
+EndGlobal
